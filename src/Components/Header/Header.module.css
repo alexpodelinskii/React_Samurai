@@ -1,0 +1,8 @@
+.Top {
+  grid-area: header;
+  background-color: aqua;
+  }
+  .Top img{
+    width: 50px;
+    
+  }

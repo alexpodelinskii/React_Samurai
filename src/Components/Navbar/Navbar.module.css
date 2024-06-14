@@ -1,0 +1,15 @@
+.Menu {
+  grid-area: navigation;
+  background-color: rgb(0, 255, 106);
+  padding: 20px;
+}
+ 
+.item a{
+  color: rgb(211, 16, 169);
+  padding: 2px;
+  text-decoration-line: none;
+}
+
+a.activeLink {
+color: gold
+}
